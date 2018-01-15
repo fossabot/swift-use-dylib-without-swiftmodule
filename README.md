@@ -1,4 +1,6 @@
 # Use Swift dynamic library without swiftmodule file
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJanAhrens%2Fswift-use-dylib-without-swiftmodule.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FJanAhrens%2Fswift-use-dylib-without-swiftmodule?ref=badge_shield)
+
 
 This repository demonstrates a technique that you can use to create a `.swiftmodule` file for a `.dylib` without having
 access to the original `.swift` file.
@@ -15,3 +17,7 @@ Steps:
 Acknowledgements:
 
 - Thanks to [Michael Gianarakis](https://twitter.com/mgianarakis) for sharing the slides from his [Reverse Engineering Swift Apps](https://www.slideshare.net/eightbit/rootcon-x-reverse-engineering-swift-applications) talk that introduced me to `swift-demangle`
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJanAhrens%2Fswift-use-dylib-without-swiftmodule.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FJanAhrens%2Fswift-use-dylib-without-swiftmodule?ref=badge_large)
